@@ -1,0 +1,1 @@
+This code is up to initialize and configure the AXI BRAM (Block RAM) controller, set up a UART Lite communication interface, and continuously receive data through UART to populate a BRAM with floating-point values.
