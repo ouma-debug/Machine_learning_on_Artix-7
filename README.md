@@ -1,4 +1,4 @@
-# This projject was done by and me for a class project and we were inspired by (https://github.com/nhma20/FPGA_AI/blob/main/README.md). It may look the sae but the material coception was diffrent because we used a diffrent FPGA board.
+# This project was done by and me for a class project and we were inspired by (https://github.com/nhma20/FPGA_AI/blob/main/README.md). It may look the sae but the material coception was diffrent because we used a diffrent FPGA board.
 
 # Machine_learning_on_Artix-7
 This project demonstrates the implementation of machine learning on a Field-Programmable Gate Array (FPGA).
