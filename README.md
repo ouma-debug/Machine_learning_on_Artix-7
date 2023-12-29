@@ -1,4 +1,4 @@
- This project was done by and me for a class project and we were inspired by (https://github.com/nhma20/FPGA_AI/blob/main/README.md). It may look the sae but the material coception was diffrent because we used a diffrent FPGA board.
+ This project was done by @1Salma and @ouma-debug for a class project and we were inspired by (https://github.com/nhma20/FPGA_AI/blob/main/README.md). It may look the sae but the material coception was diffrent because we used a diffrent FPGA board.
 
 # Machine_learning_on_Artix-7
 This project demonstrates the implementation of machine learning on a Field-Programmable Gate Array (FPGA).
@@ -11,7 +11,7 @@ Project Structure
 Define and train a neural network using a chosen architecture.
 Preprocess training data and validate the model with a validation set.
 Export trained weights and necessary information for deployment.
-sssss
+
 - Synthesis and Vivado IP Export:
 
 Use FPGA synthesis tools, like Vivado HLS, to convert the neural network model into hardware description.
