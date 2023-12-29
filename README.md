@@ -11,7 +11,7 @@ Project Structure
 Define and train a neural network using a chosen architecture.
 Preprocess training data and validate the model with a validation set.
 Export trained weights and necessary information for deployment.
-
+sssss
 - Synthesis and Vivado IP Export:
 
 Use FPGA synthesis tools, like Vivado HLS, to convert the neural network model into hardware description.
