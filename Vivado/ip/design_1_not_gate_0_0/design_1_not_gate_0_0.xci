@@ -1,0 +1,44 @@
+{
+  "schema": "xilinx.com:schema:json_instance:1.0",
+  "ip_inst": {
+    "xci_name": "design_1_not_gate_0_0",
+    "cell_name": "not_gate_0",
+    "component_reference": "xilinx.com:module_ref:not_gate:1.0",
+    "ip_revision": "1",
+    "gen_directory": "../../../../../../project_1.gen/sources_1/bd/design_1/ip/design_1_not_gate_0_0",
+    "parameters": {
+      "component_parameters": {
+        "Component_Name": [ { "value": "design_1_not_gate_0_0", "resolve_type": "user", "usage": "all" } ]
+      },
+      "project_parameters": {
+        "ARCHITECTURE": [ { "value": "artix7" } ],
+        "BASE_BOARD_PART": [ { "value": "xilinx.com:ac701:part0:1.4" } ],
+        "BOARD_CONNECTIONS": [ { "value": "" } ],
+        "DEVICE": [ { "value": "xc7a200t" } ],
+        "PACKAGE": [ { "value": "fbg676" } ],
+        "PREFHDL": [ { "value": "VHDL" } ],
+        "SILICON_REVISION": [ { "value": "" } ],
+        "SIMULATOR_LANGUAGE": [ { "value": "VHDL" } ],
+        "SPEEDGRADE": [ { "value": "-2" } ],
+        "STATIC_POWER": [ { "value": "" } ],
+        "TEMPERATURE_GRADE": [ { "value": "" } ]
+      },
+      "runtime_parameters": {
+        "IPCONTEXT": [ { "value": "IP_Integrator" } ],
+        "IPREVISION": [ { "value": "1" } ],
+        "MANAGED": [ { "value": "TRUE" } ],
+        "OUTPUTDIR": [ { "value": "../../../../../../project_1.gen/sources_1/bd/design_1/ip/design_1_not_gate_0_0" } ],
+        "SELECTEDSIMMODEL": [ { "value": "" } ],
+        "SHAREDDIR": [ { "value": "../../ipshared" } ],
+        "SWVERSION": [ { "value": "2023.1" } ],
+        "SYNTHESISFLOW": [ { "value": "OOC_HIERARCHICAL" } ]
+      }
+    },
+    "boundary": {
+      "ports": {
+        "i_in": [ { "direction": "in" } ],
+        "o_out": [ { "direction": "out" } ]
+      }
+    }
+  }
+}
