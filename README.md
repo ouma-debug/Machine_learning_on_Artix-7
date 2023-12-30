@@ -111,7 +111,7 @@ Datasheet : https://www.mouser.fr/pdfDocs/ug952-ac701-a7-eval-bd.pdf
 
 
 
-From the host PC test images are sent to the PYNQ-Z2 board via UART. The baremetal software application acts as an interface between host PC and hardware and send the test image to the hardware inference module through BRAM. The inference result is displayed via the onboard LEDs and sent back through the software application to the host PC.
+From the host PC test images are sent to the fpga board via UART. The baremetal software application acts as an interface between host PC and hardware and send the test image to the hardware inference module through BRAM. The inference result is displayed via the onboard LEDs and sent back through the software application to the host PC.
 
 
 
